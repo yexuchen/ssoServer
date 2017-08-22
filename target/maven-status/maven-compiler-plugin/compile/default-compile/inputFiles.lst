@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\company\SSO\ssoServer\src\main\java\com\yexc\common\connection.java
+C:\Users\Administrator\Desktop\company\SSO\ssoServer\src\main\java\com\yexc\common\constant.java
+C:\Users\Administrator\Desktop\company\SSO\ssoServer\src\main\java\com\yexc\model\registerInfo.java
+C:\Users\Administrator\Desktop\company\SSO\ssoServer\src\main\java\com\yexc\model\TokenInfo.java
+C:\Users\Administrator\Desktop\company\SSO\ssoServer\src\main\java\com\yexc\common\TimeLimit.java
+C:\Users\Administrator\Desktop\company\SSO\ssoServer\src\main\java\com\yexc\model\verifyResponse.java
+C:\Users\Administrator\Desktop\company\SSO\ssoServer\src\main\java\com\yexc\controller\SsoServerController.java
+C:\Users\Administrator\Desktop\company\SSO\ssoServer\src\main\java\com\yexc\interceptor\sessionListener.java
+C:\Users\Administrator\Desktop\company\SSO\ssoServer\src\main\java\com\yexc\common\ssoToken.java
+C:\Users\Administrator\Desktop\company\SSO\ssoServer\src\main\java\com\yexc\common\collect.java
+C:\Users\Administrator\Desktop\company\SSO\ssoServer\src\main\java\com\yexc\common\GlobalSessions.java
+C:\Users\Administrator\Desktop\company\SSO\ssoServer\src\main\java\com\yexc\common\HttpClientUtils.java
+C:\Users\Administrator\Desktop\company\SSO\ssoServer\src\main\java\com\yexc\controller\ssoCilentController.java
